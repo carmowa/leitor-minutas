@@ -1,0 +1,63 @@
+MINUTA DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+CONTRATANTE: [NOME_CONTRATANTE]
+CNPJ: [CNPJ_CONTRATANTE]
+Endereço: [ENDERECO_CONTRATANTE]
+
+CONTRATADO: [NOME_CONTRATADO]
+CPF/CNPJ: [CPF_CONTRATADO]
+Endereço: [ENDERECO_CONTRATADO]
+
+OBJETO DO CONTRATO:
+[DESCRICAO_SERVICOS]
+
+CLÁUSULA PRIMEIRA - DO OBJETO
+[DETALHES_OBJETO]
+
+CLÁUSULA SEGUNDA - DO PRAZO
+O presente contrato terá vigência de [PRAZO] a partir da data de assinatura.
+
+CLÁUSULA TERCEIRA - DO VALOR E FORMA DE PAGAMENTO
+O CONTRATANTE pagará ao CONTRATADO o valor total de R$ [VALOR] ([VALOR_EXTENSO]).
+
+Forma de pagamento: [FORMA_PAGAMENTO]
+
+CLÁUSULA QUARTA - DAS OBRIGAÇÕES DO CONTRATADO
+[OBRIGACOES_CONTRATADO]
+
+CLÁUSULA QUINTA - DAS OBRIGAÇÕES DO CONTRATANTE
+[OBRIGACOES_CONTRATANTE]
+
+CLÁUSULA SEXTA - DA RESCISÃO
+[CLAUSULA_RESCISAO]
+
+CLÁUSULA SÉTIMA - DAS DISPOSIÇÕES GERAIS
+[DISPOSICOES_GERAIS]
+
+CLÁUSULA OITAVA - DO FORO
+Fica eleito o foro da comarca de [CIDADE_FORO] para dirimir quaisquer dúvidas oriundas do presente contrato.
+
+E, por estarem assim justos e contratados, firmam o presente instrumento em 2 (duas) vias de igual teor e forma, na presença de duas testemunhas.
+
+[CIDADE], [DATA]
+
+
+_________________________________
+[NOME_CONTRATANTE]
+CONTRATANTE
+
+
+_________________________________
+[NOME_CONTRATADO]
+CONTRATADO
+
+
+TESTEMUNHAS:
+
+_________________________________
+Nome: [TESTEMUNHA_1]
+CPF: [CPF_TESTEMUNHA_1]
+
+_________________________________
+Nome: [TESTEMUNHA_2]
+CPF: [CPF_TESTEMUNHA_2]
